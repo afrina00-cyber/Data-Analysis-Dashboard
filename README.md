@@ -12,7 +12,6 @@ The Vrine wants to create a performance report for their employees, especially b
 - Which department has the highest-paid employee?
   
 -Dashboard Interaction <a "href="https://github.com/afrina00-cyber/Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-28%20020417.png">View Dashboard</a>
--Dashboard Interaction <a "href="https://github.com/afrina00-cyber/Data-Analysis-Dashboard/blob/main/Screenshot%202025-10-28%20020502.png">View Dashboard</a>
 
 ## Process
 - Verify data for missing values and anomalies, and sort out the same.
