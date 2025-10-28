@@ -23,3 +23,8 @@ The Vrine wants to create a performance report for their employees, especially b
 ## Dashboard
 <img width="1896" height="760" alt="Screenshot 2025-10-28 020417" src="https://github.com/user-attachments/assets/b1adece7-406b-4f2d-9453-08378b886264" />
 <img width="1841" height="735" alt="Screenshot 2025-10-28 020502" src="https://github.com/user-attachments/assets/7aabad45-c629-4f34-b7b3-b9b9a8e15f86" />
+
+## Final Conclusion
+- The average data of salary and age has been included in the dashboard.
+- The salary across genders is not significantly different.
+- BI Director is the highest-paid employee.
