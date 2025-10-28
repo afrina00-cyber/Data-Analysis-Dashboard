@@ -21,3 +21,5 @@ The Vrine wants to create a performance report for their employees, especially b
 - Merge pivot tables into one dashboard and apply slicer to make dynamic.  
 
 ## Dashboard
+<img width="1896" height="760" alt="Screenshot 2025-10-28 020417" src="https://github.com/user-attachments/assets/b1adece7-406b-4f2d-9453-08378b886264" />
+<img width="1841" height="735" alt="Screenshot 2025-10-28 020502" src="https://github.com/user-attachments/assets/7aabad45-c629-4f34-b7b3-b9b9a8e15f86" />
