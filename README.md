@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-Developed an Excel file to analyze and summarize data using Pivot Tables, Conditional Formatting, and Slicers. Applied average calculations to compare differences across categories, providing clear, interactive, and insightful analysis.
+# Company Vrine-Employee-Data-Analysis(Interactive dashboard creation using MS Excel)
+## Project Objective
+The Vrine wants to create a performance report for their employees, especially based on gender and age. So that, the owner can understand what needs to improve on the employee end.
